@@ -29,13 +29,20 @@ Kullanıcı deneyimini artırmak amacıyla **PyQt5** kütüphanesi kullanılarak
 
 📦 Yolo_Proje_Teslim
  ┣ 📂 train/                # Eğitim veri seti görselleri ve etiketleri
+ 
  ┣ 📂 val/                  # Doğrulama (Validation) veri seti
- ┣ 📜 gui_app.py            # PyQt5 tabanlı ana masaüstü uygulaması (Kodu buradan çalıştırın)
+ 
+ ┣ 📜 gui_app.py            # PyQt5 tabanlı ana masaüstü uygulaması
+ 
  ┣ 📜 best.pt               # Eğitilmiş YOLOv8 model dosyası (Weights)
+ 
  ┣ 📜 yolo_training.ipynb   # Eğitim sürecini, Loss ve mAP grafiklerini içeren rapor
+ 
  ┣ 📜 config.yaml           # Model eğitim konfigürasyon dosyası
+ 
  ┣ 📜 requirements.txt      # Gerekli Python kütüphaneleri listesi
- ┗ 📜 ReadMe.md             # Proje dokümantasyonu (Bu dosya)
+ 
+ ┗ 📜 ReadMe.md             # Proje dokümantasyonu
 
 📊 Eğitim Sonuçları ve Başarı
 
