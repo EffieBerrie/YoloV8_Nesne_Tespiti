@@ -37,6 +37,14 @@ Kullanıcı deneyimini artırmak amacıyla **PyQt5** kütüphanesi kullanılarak
  ┣ 📜 requirements.txt      # Gerekli Python kütüphaneleri listesi
  ┗ 📜 ReadMe.md             # Proje dokümantasyonu (Bu dosya)
 
+📊 Eğitim Sonuçları ve Başarı
+
+Modelin eğitim süreci boyunca elde edilen Kayıp (Loss) ve Doğruluk (mAP) grafikleri ile Karmaşıklık Matrisi (Confusion Matrix), proje dosyasındaki yolo_training.ipynb içerisinde detaylı olarak sunulmuştur.
+
+mAP50 Skoru: %75 üzeri (Kupa ve Kalem tespiti için optimize edilmiştir).
+
+Epoch Sayısı: 20
+
 ## 🛠️ Kurulum ve Çalıştırma
 
 1. Gerekli kütüphaneleri yükleyin:
@@ -48,10 +56,4 @@ Kullanıcı deneyimini artırmak amacıyla **PyQt5** kütüphanesi kullanılarak
    python gui_app.py
 
 
-📊 Eğitim Sonuçları ve Başarı
 
-Modelin eğitim süreci boyunca elde edilen Kayıp (Loss) ve Doğruluk (mAP) grafikleri ile Karmaşıklık Matrisi (Confusion Matrix), proje dosyasındaki yolo_training.ipynb içerisinde detaylı olarak sunulmuştur.
-
-mAP50 Skoru: %75 üzeri (Kupa ve Kalem tespiti için optimize edilmiştir).
-
-Epoch Sayısı: 20
