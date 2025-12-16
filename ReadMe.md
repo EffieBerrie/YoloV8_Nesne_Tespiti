@@ -4,9 +4,9 @@ Bu proje, **BLG-407 Makine Öğrenmesi** dersi Proje Ödevi kapsamında gelişti
 Özgün bir veri seti kullanılarak **YOLOv8** modeli eğitilmiş ve tespit sonuçlarını gösteren modern bir masaüstü arayüzü tasarlanmıştır.
 
 ## 👨‍🎓 Öğrenci Bilgileri
-* **Adı:** [Eftalya Beril]
-* **Soyadı:** [ŞAHİN]
-* **Okul No:** [2212721037]
+* **Adı:** Eftalya Beril
+* **Soyadı:** ŞAHİN
+* **Okul No:** 2212721037
 * **Ders:** BLG-407 Makine Öğrenmesi
 
 ## 🚀 Proje Hakkında
