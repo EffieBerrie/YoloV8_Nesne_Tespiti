@@ -1,0 +1,11 @@
+# Projenin ana klasör yolu (Windows için ters eğik çizgi yerine düz çizgi kullanıyoruz)
+path: C:/Proje_Odev
+
+# Eğitim ve test resimlerinin yerleri
+train: train/images
+val: val/images
+
+# Sınıf isimleri (Senin ayarladığın sıraya göre)
+names:
+  0: kupa
+  1: kalem

@@ -1,0 +1,5 @@
+ultralytics
+PyQt5
+opencv-python
+matplotlib
+pandas
